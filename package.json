@@ -1,0 +1,8 @@
+{
+  "name": "angular-js-starter-kit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/xmfenbei/angular-js-starter-kit.git",
+  "author": "xmfenbei <xmfenbei@163.com>",
+  "license": "MIT"
+}
