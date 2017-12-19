@@ -26,3 +26,35 @@ question private:
 success Saved package.json
 ✨  Done in 61.97s.
 ```
+
+## 添加依赖包
+
+```
+$ yarn add angular
+```
+
+```
+$ yarn add angular-ui-router
+```
+
+```
+$ yarn add webpack --dev
+```
+
+```
+$ yarn add webpack-dev-server --dev
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
